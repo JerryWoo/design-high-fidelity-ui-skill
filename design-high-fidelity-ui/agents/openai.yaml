@@ -1,0 +1,4 @@
+interface:
+  display_name: "高保真 UI 设计"
+  short_description: "以生产级高保真标准设计、实现、审查并验证网页和移动端界面"
+  default_prompt: "使用 $design-high-fidelity-ui 设计并验证一套可上线的高保真界面。"
